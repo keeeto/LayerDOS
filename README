@@ -1,0 +1,6 @@
+Tool for plottin VASP output PDOS layer-by-layer. It requires as
+input a POSCAR or CONTCAR and a DOSCAR with site projected DOS
+printed after the full DOS.
+
+It produces l.DOS which has the average DOS for atoms in each layer
+as defined while runnig the program by "Bin Width".
